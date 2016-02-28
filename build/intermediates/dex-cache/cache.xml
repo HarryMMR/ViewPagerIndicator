@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jelly\Documents\GitHub\sample\sample\build\intermediates\exploded-aar\sample\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="932c1d26cfbff4f643d8f8fafb5060e4cf1f696e">
+        <dex dex="C:\Users\Jelly\Documents\GitHub\sample\sample\build\intermediates\pre-dexed\debug\sample-library-unspecified_d79d6961359fe91ea91b7fda87e51155182a8fd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jelly\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Jelly\Documents\GitHub\sample\sample\build\intermediates\pre-dexed\debug\support-v4-18.0.0_dd96923eec53122318e2f728cdc828fae37d4c57.jar" />
+    </item>
+
+</items>

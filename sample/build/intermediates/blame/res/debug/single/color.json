@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Jelly\\Documents\\GitHub\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "C:\\Users\\Jelly\\Documents\\GitHub\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelly\\Documents\\GitHub\\sample\\sample\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "C:\\Users\\Jelly\\Documents\\GitHub\\sample\\sample\\build\\intermediates\\exploded-aar\\sample\\library\\unspecified\\res\\color\\vpi__light_theme.xml"
+    }
+]
